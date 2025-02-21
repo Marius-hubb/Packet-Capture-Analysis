@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-This lab demonstrates packet capture analysis in Wireshark. I will first start by looking at statistics>conversations and examine the ip addresses and ports used. I will then apply additional filters in wireshark to reveal more information.   <br />
+This lab demonstrates packet capture analysis in Wireshark. I will first start by looking at statistics>conversations and examine the number of packets, IP addresses, and ports. I will then apply additional filters to reveal more information.   <br />
 <br />
 
 <h2>Lab walk-through:</h2>
