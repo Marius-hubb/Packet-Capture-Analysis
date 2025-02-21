@@ -1,4 +1,4 @@
-<h1>Packet Capture Analysis in Wireshark</h1>
+<h1>Packet Capture Analysis using Wireshark</h1>
 
  ## [Video Demonstration (38:41)](https://drive.google.com/file/d/1ozfcxE80ODhxWV1-2v5EPMv1_uyHX-eD/view?usp=drive_link)
 
