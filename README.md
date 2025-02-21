@@ -1,10 +1,10 @@
-<h1>Packet Capture Analysis using Wireshark</h1>
+<h1>Packet Capture Analysis using Wireshark - Incident 1</h1>
 
  ## [Video Demonstration (38:41)](https://drive.google.com/file/d/1ozfcxE80ODhxWV1-2v5EPMv1_uyHX-eD/view?usp=drive_link)
 
 <h2>Description</h2>
 
-This lab demonstrates packet capture analysis in Wireshark. <br />
+This lab demonstrates packet capture analysis in Wireshark. I will first start by looking at statistics>conversations and examine the ip addresses and ports used. I will then apply additional filters in wireshark to reveal more information.   <br />
 <br />
 
 <h2>Lab walk-through:</h2>
